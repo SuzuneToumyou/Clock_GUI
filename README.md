@@ -1,12 +1,12 @@
 # Clock
-## 概要
+## Overview
 
-このソフトはPythonで開発された、GUI上で動作するポップでカラフルな時計です。シンプルに時間を表示するだけのアプリケーションです。
+This software is a pop and colorful clock developed in Python that operates on a GUI. It is a simple application that only displays the time.
 
-## 使用方法
+## Usage
 
-使い方は直感的で簡単です。時刻を表示するだけただそれだけです。
+The usage is intuitive and simple. It just displays the time, nothing more.
 
-## 改良について
+## Improvements
 
-改良や機能追加はご自由に行ってください。ただし、出典元を明らかにしていただけると幸いです。
+Feel free to make improvements or add features. However, it would be appreciated if you could acknowledge the original source.
